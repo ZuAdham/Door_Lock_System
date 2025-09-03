@@ -1,0 +1,22 @@
+# Eclipse / IDE
+.metadata/
+.settings/
+.project
+.classpath
+
+# Build output
+Debug/
+Release/
+
+# Objects / deps / maps / binaries
+*.o
+*.d
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+
+# Temp
+*.tmp
+*.bak
